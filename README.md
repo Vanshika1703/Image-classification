@@ -17,6 +17,7 @@ Visualization: Matplotlib
 
 ## Dataset  
 The dataset consists of 3,670 flower images sourced from TensorFlow's sample datasets.
+[dataset link](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)
 
 Classes: Daisy, Dandelion, Roses, Sunflowers, Tulips  
 Data Split:
